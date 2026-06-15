@@ -16,36 +16,40 @@
 
 ## 🎓 About Me
 
-I'm a **Systems and Biomedical Engineering student** at **Cairo University** with a deep passion for leveraging **Artificial Intelligence** and **Machine Learning** to solve real-world problems, especially in healthcare and medical diagnostics.
+I'm a **Systems and Biomedical Engineering student** at **Cairo University** (with a deep passion for leveraging **Artificial Intelligence** and **Machine Learning** to solve real-world problems — spanning healthcare, Arabic language technology and computer vision.
+ 
 - 📫 Reach me at: ziadnassif23@gmail.com
 
-
-My journey combines engineering precision with data science creativity, focusing on:
-- 🧠 Deep Learning & Neural Networks
-- 🏥 Computer Vision in Medical Applications  
-- 📊 Predictive Analytics & Data Science
-- 🔬 Biomedical Signal & Image Processing
----
+  
+My journey combines engineering precision with data science creativity. Recent work includes:
+ 
+- 🏥 Medical Imaging — chest X-ray denoising & synthetic generation 
+- 🌍 Arabic NLP — sentiment analysis, dialect classification & conversion (LLMs + STT/TTS)
+- 🧬 Physics-Informed Neural Networks for biomedical / cell-fate modeling
+- 📄 Document AI — table detection, structure recognition & OCR pipelines
+- 🏃 3D Pose & Skeletal Tracking for sports analytics
 
 ## 💻 Technical Skills
 
+ 
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)
 
 ### Specialized Skills
-- **Machine Learning:** Classification, Regression, Clustering, Ensemble Methods
-- **Deep Learning:** CNNs, RNNs, Neural Networks, Transfer Learning, Transformers, Attention Mechanisms
-- **Large Language Models (LLMs):** Fine-tuning, Prompt Engineering, Model Deployment
-- **Medical AI:** Medical Image Analysis, Diagnostic Systems, Predictive Healthcare Models
-- **Data Science:** EDA, Feature Engineering, Model Optimization, Visualization
-- **Computer Vision:** Image Processing, Object Detection, Medical Imaging
-
+- **Machine Learning & Deep Learning:** Transfer Learning, Fine-tuning, PINNs, GANs, Focal Loss, Semi-Supervised Learning (Pseudo-labeling), Grad-CAM, SVM
+- **NLP & LLMs:** Transformers (BERT, MARBERTv2), TrOCR, DETR, Table Transformer (TATR), Prompt Engineering, Multi-label Classification, Arabic NLP
+- **Computer Vision:** Object Detection, Instance Segmentation, Multi-Object Tracking, OCR, Document AI, 3D Pose Estimation, Skeletal Tracking, Image Denoising
+- **Tools & Infrastructure:** Git, GitHub, GPU/CUDA, Model Deployment, SciPy, Linux
 
 
 ---
